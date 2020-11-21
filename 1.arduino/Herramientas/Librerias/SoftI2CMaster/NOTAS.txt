@@ -1,0 +1,21 @@
+*************************************************
+       Arduino SoftI2C library. 
+*************************************************
+
+AUTORES: 
+
+	- Bernhard Nebel
+	- Peter Fleury
+
+ORIGEN: 
+
+	github.com/felias-fogg/SoftI2CMaster/blob/master/SoftI2CMaster.h
+
+DESCRIPCION: 
+	
+ Libreria MUY rapida y Muy ligera para comunicacion I2C Software
+ escrita en ensamblador. Basada en Peter Fleury's I2C software
+ library: http://homepage.hispeed.ch/peterfleury/avr-software.html
+ 
+ Esta lireria es software libre y se puede distribuir o modificar 
+ bajo los terminos de GNU General Public License.
